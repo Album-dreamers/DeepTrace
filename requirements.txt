@@ -1,0 +1,14 @@
+langgraph
+langchain-core
+langchain-openai
+pydantic
+httpx
+pytest
+jsonschema
+attrs
+python-dotenv
+google-search-results
+beautifulsoup4
+streamlit
+pandas
+ruff
